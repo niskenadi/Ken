@@ -1,2 +1,3 @@
 # Ken
-My Name Niskenadi , i a College Student in Airlangga University Surabaya
+Hello My Name is Niskenadi , i am College Student in Airlangga University Surabaya.
+Nice to Meet You.
